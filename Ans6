@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int r;
+	scanf ("%d",&r);
+	printf ("The diameter will be = ")
+	printf ("%d",2*r);
+	scanf ("%d",&d);
+	printf (", The circumference of the circle is = ");
+	printf ("%d", 44/7*r);
+	printf (" and the area of the circle  = ");
+	printf ("%d",22/7*r*r);
+	return 0;
+}

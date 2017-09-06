@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int l,b;
+	scanf ("%d",&l);
+	scanf ("%d",&b);
+	printf ("The area of the rectangle will be = ");
+	printf ("%d",l*b);
+	return 0;
+}
