@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int num1,num2;
+	scanf ("%d",&num1);
+	scanf ("%d",&num2);
+	printf (" Addition = ");
+	printf ("%d",num1+num2);
+	printf (", Substraction = ");
+	printf ("%d",num1-num2);
+        printf (", Multiplication = ");
+	printf ("%d",num1*num2);
+	printf (" and Division = ");
+	printf ("%d",num1/num2);
+	return 0;
+}
