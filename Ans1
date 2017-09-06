@@ -8,7 +8,7 @@ int main() {
             long d;
             double e;
             bool f;
-            cout<<" Enter the variables of int,char,float,long,double and bool type\n";
+            cout<<" Enter the variables in the order int,char,float,long,double and bool types respectively\n";
             cin>>a;
             cout<<"\n";
             cin>>b;
